@@ -1,6 +1,17 @@
 {
-  "model_name": "Gemma 3 1B IT",
-  "filename": "gemma3-1b-it-int4.litertlm",
-  "model_url": "https://github.com/sunildhiman90/offline-models/releases/latest/download/gemma3-1b-it-int4.litertlm",
-  "version": "1.0.0"
+  "projects": {
+    "voxtion": {
+      "models": [
+        {
+          "id": "gemma-3-1b",
+          "name": "Gemma 3 1B IT",
+          "type": "llm",
+          "filename": "gemma3-1b-it-int4.litertlm",
+          "url": "https://github.com/sunildhiman90/offline-models/releases/latest/download/gemma3-1b-it-int4.litertlm",
+          "version": "1.0.0",
+          "is_default": true
+        }
+      ]
+    },
+  }
 }
