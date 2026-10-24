@@ -1,0 +1,6 @@
+{
+  "model_name": "Gemma 3 1B IT",
+  "filename": "gemma3-1b-it-int4.litertlm",
+  "model_url": "https://github.com/sunildhiman90/voxtask-models/releases/latest/download/gemma3-1b-it-int4.litertlm",
+  "version": "1.0.0"
+}
